@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-10T09:20:31Z" name="Default suite" finished-at="2019-01-10T09:20:51Z" duration-ms="20051">
+    <groups>
+    </groups>
+    <test started-at="2019-01-10T09:20:31Z" name="Default test" finished-at="2019-01-10T09:20:51Z" duration-ms="20051">
+      <class name="com.amazon.tests.TestAmazon">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.amazon.tests.TestAmazon@3d1cfad4]" started-at="2019-01-10T09:20:31Z" name="beforeTest" finished-at="2019-01-10T09:20:37Z" duration-ms="6474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="validateSignInLinkTest()[pri:1, instance:com.amazon.tests.TestAmazon@3d1cfad4]" started-at="2019-01-10T09:20:37Z" name="validateSignInLinkTest" finished-at="2019-01-10T09:20:40Z" duration-ms="2896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignInLinkTest -->
+        <test-method signature="numberOfBannersTest()[pri:2, instance:com.amazon.tests.TestAmazon@3d1cfad4]" started-at="2019-01-10T09:20:40Z" name="numberOfBannersTest" finished-at="2019-01-10T09:20:40Z" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberOfBannersTest -->
+        <test-method signature="validateLoginFlowTest()[pri:3, instance:com.amazon.tests.TestAmazon@3d1cfad4]" started-at="2019-01-10T09:20:40Z" name="validateLoginFlowTest" finished-at="2019-01-10T09:20:45Z" duration-ms="4597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFlowTest -->
+        <test-method signature="validatePincodeChangeFlowTest()[pri:4, instance:com.amazon.tests.TestAmazon@3d1cfad4]" started-at="2019-01-10T09:20:45Z" name="validatePincodeChangeFlowTest" finished-at="2019-01-10T09:20:51Z" duration-ms="6004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePincodeChangeFlowTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.amazon.tests.TestAmazon@3d1cfad4]" started-at="2019-01-10T09:20:51Z" name="afterTest" finished-at="2019-01-10T09:20:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.amazon.tests.TestAmazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
